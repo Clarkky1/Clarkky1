@@ -26,6 +26,6 @@ I specialize in **UI/UX design**, **frontend & backend development**, and **API 
 
 ## **Let’s Connect**
 - **GitHub**: [Clarkky1](https://github.com/Clarkky1)  
-- **LinkedIn**: [Kin Clark Perez](https://linkedin.com/in/kinclarkperez)  
+- **LinkedIn**: [Kin Clark Perez](linkedin.com/in/kin-clark-perez-164a17294)  
 - **Email**: clarkperez906@gmail.com  
 
