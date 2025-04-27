@@ -1,5 +1,5 @@
-Hi there 👋, I’m Kin Clark Perez
-About Me
+**Hi there 👋, I’m Kin Clark Perez**
+**About Me**
 I’m a Full-Stack Software Engineer passionate about building scalable and user-friendly web and mobile applications. With over 2 years of experience, I’ve worked on projects like:
 
 BizUP: A mobile productivity app developed in just one week using advanced AI prompting techniques.
