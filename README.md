@@ -3,7 +3,7 @@
 I’m a Full-Stack Software Engineer with a passion for building scalable, intuitive, and user-centric applications. With over two years of experience, I excel at blending technology and creativity to deliver seamless solutions.
 
 #### **Let’s Connect**
-<div align="center">
+<div align="start">
   <a href="https://github.com/Clarkky1" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub">
   </a>
